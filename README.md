@@ -8,7 +8,7 @@ The Solana Multi Bundler allows users to bundle multiple transactions on the Sol
 
 ## 📝 Prerequisites
 - **Linux Ubuntu VPS:** You need to purchase a Linux Ubuntu VPS. Contact support to buy one.
-- **RPC Endpoint:** Rent an RPC endpoint. Contact [support](https://t.me/zorro0x) for assistance.
+- **RPC Endpoint:** Rent an RPC endpoint. 
 - **Solana Wallets:** Create two wallets:
   - Deployer Wallet (for creating the pool)
   - Fee Payer Wallet (for paying fees and snipe)
