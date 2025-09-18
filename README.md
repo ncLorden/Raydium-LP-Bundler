@@ -65,10 +65,4 @@ This involves sending a percentage of every keypair's token balance to the fee p
 ### 6. LP Remove
 If you don't burn your LP, it will be removed automatically.
 
-## 🛠️ Support
-For any issues or assistance, contact support. They can help you with the entire setup process.
 
-## 📞 Contact
-- **Telegram:** [@support_telegram](https://t.me/zorro0x)
-
-Enjoy bundling with Solana Multi Bundler! 🚀
